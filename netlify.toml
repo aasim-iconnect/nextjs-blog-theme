@@ -13,7 +13,7 @@ X-Content-Type-Options = "nosniff"
 
 [[redirects]]
 from = "/.well-known/*"
-to = "/well-known/:splat"
+to = "/well-known/index.html"
 status = 200
 
 [[redirects]]
